@@ -9,6 +9,6 @@ package DAO;
  *
  * @author aluno
  */
-public class AluguelDAO {
+public class AluguelDAO extends ExecuteSQL{
     
 }
